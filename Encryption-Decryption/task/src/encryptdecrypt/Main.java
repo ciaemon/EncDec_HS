@@ -1,18 +1,48 @@
 package encryptdecrypt;
 
+import java.io.*;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
+import java.util.Scanner;
 
-interface EncDec {
-    String encrypt(String input, Algorithm algorithm);
-    String decrypt(String input, Algorithm algorithm);
+class ProcessEncDecFactory {
+    public static ProcessorEncDec makeTask(LaunchParams lp) throws FileNotFoundException {
+       ProcessorEncDec task = new ProcessorEncDec();
+       switch (lp.getValue("-alg")) {
+           case "shift" :
+               task.setAlgorithm(new ShiftAlgorithm(
+                       Integer.parseInt(lp.getValue("-key")),
+                       lp.getValue("-mode").equals("enc"))
+               );
+               break;
+           case "unicode" :
+               task.setAlgorithm(new UnicodeAlgorithm(
+                       Integer.parseInt(lp.getValue("-key")),
+                       lp.getValue("-mode").equals("enc"))
+               );
+               break;
+
+        }
+        if (lp.contains("-in")) {
+            File inp = new File(lp.getValue("-in"));
+            task.setInputStream(new Scanner(inp));
+        } else task.setInputStream(new Scanner(lp.getValue("-data")));
+
+        if (lp.contains("-out")) {
+            File outp = new File(lp.getValue("-out"));
+            task.setPrintStream(new PrintStream(outp));
+        } else task.setPrintStream(System.out);
+
+       return task;
+    }
 }
+class ProcessorEncDec {
+Scanner inputStream;
+PrintStream printStream;
+Algorithm algorithm;
 
-class ProcessorEncDec implements EncDec {
 
-
-    @Override
-    public String encrypt(String input, Algorithm algorithm) {
+    public String encrypt(String input) {
         String output = "";
         for (int i = 0; i < input.length(); i++) {
         output += algorithm.process(input.charAt(i));
@@ -20,10 +50,23 @@ class ProcessorEncDec implements EncDec {
         return output;
     }
 
-    @Override
-    public String decrypt(String input, Algorithm algorithm) {
-        algorithm.invert();
-        return encrypt(input, algorithm);
+
+       public void process() {
+       printStream.print(encrypt(inputStream.nextLine()));
+       printStream.close();
+       inputStream.close();
+    }
+
+    public void setInputStream(Scanner inputStream) {
+        this.inputStream = inputStream;
+    }
+
+    public void setPrintStream(PrintStream printStream) {
+        this.printStream = printStream;
+    }
+
+    public void setAlgorithm(Algorithm algorithm) {
+        this.algorithm = algorithm;
     }
 }
 
@@ -46,11 +89,36 @@ abstract class Algorithm {
         this.isEncrypt = !isEncrypt;
     }
 }
-/*
+
 class ShiftAlgorithm extends Algorithm {
 
+    public ShiftAlgorithm(int key, boolean isEncrypt) {
+        super(key, isEncrypt);
+    }
+
+    @Override
+    char process(char in) {
+        int newKey = isEncrypt ? key : -key;
+        if (in >= 'a' && in <= 'z') {
+            return (char) rounding('a', 'z', in + newKey);
+        }
+        if (in >= 'A' && in <= 'Z') {
+            return (char) rounding('A', 'Z', in + newKey);
+        }
+        return in;
+    }
+    private int rounding(int start, int end, int value) {
+        int length = end - start + 1;
+        if (value >= start) {
+            return start + (value - start) % length;
+        } else {
+            return end - (end - value) % length;
+        }
+
+    }
+
 }
- */
+
 class UnicodeAlgorithm extends Algorithm {
     public UnicodeAlgorithm(int key, boolean isEncrypt) {
         super(key, isEncrypt);
@@ -94,20 +162,28 @@ class LaunchParams {
     public String getValue(String arg) {
             return parameters.get(arg);
     }
-
+    public boolean contains(String arg) {
+            return parameters.containsKey(arg);
     }
 
-
-
-
+    }
 
 
 public class Main {
 
     final static java.util.Scanner scanner = new java.util.Scanner(System.in);
-    public static void main(String[] args) {
-        String s = "-mode enc -in road_to_treasure.txt -out protected.txt -alg unicode";
 
+    public static void main(String[] args) throws FileNotFoundException {
+        String[] args1 = "-mode dec -data Govmywo_dy_rizobcusvv! -key 10 -alg shift".split(" ");
+        LaunchParams lp = new LaunchParams(args, "-alg", "shift", "-mode", "enc", "-key", "0");
+
+        ShiftAlgorithm a = new ShiftAlgorithm(1, false);
+
+        try {
+            ProcessEncDecFactory.makeTask(lp).process();
+        } catch (Exception e) {
+            System.out.println("Error");
+        }
 
 
     }
