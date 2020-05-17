@@ -1,0 +1,285 @@
+/Encryption-Decryption/task/build/classes/java/test/Attach.class
+/.idea/.gitignore
+/Encryption-Decryption/task/build/reports/tests/test/css/base-style.css
+/build.gradle
+/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/.gradle/buildOutputCleanup/cache.properties
+/.gradle/checksums/checksums.lock
+/.gradle/5.3.1/javaCompile/classAnalysis.bin
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/compiler.xml
+/course-info.yaml
+/course-remote-info.yaml
+/Encryption-Decryption/task/build/reports/tests/test/packages/default-package.html
+/Encryption-Decryption/task/build/classes/java/main/encryptdecrypt/Encrypt.class
+/Encryption-Decryption/task/out/production/classes/encryptdecrypt/Encrypt.class
+/Encryption-Decryption/task/build/classes/java/test/EncryptDecryptTest.class
+/Encryption-Decryption/task/out/test/classes/EncryptDecryptTest.class
+/Encryption-Decryption/task/build/reports/tests/test/classes/EncryptDecryptTest.html
+/Encryption-Decryption/task/test/EncryptDecryptTest.java
+/.idea/modules/Encryption-Decryption.iml
+/.idea/modules/Encryption-Decryption/task/Encryption-Decryption-task.iml
+/.idea/modules/Encryption-Decryption/task/Encryption-Decryption-task_main.iml
+/.idea/modules/Encryption-Decryption/task/Encryption-Decryption-task_test.iml
+/.gradle/5.3.1/executionHistory/executionHistory.bin
+/.gradle/6.1/executionHistory/executionHistory.bin
+/.gradle/5.3.1/executionHistory/executionHistory.lock
+/.gradle/6.1/executionHistory/executionHistory.lock
+/.gradle/5.3.1/fileContent/fileContent.lock
+/.gradle/5.3.1/fileHashes/fileHashes.bin
+/.gradle/6.1/fileHashes/fileHashes.bin
+/.gradle/5.3.1/fileHashes/fileHashes.lock
+/.gradle/6.1/fileHashes/fileHashes.lock
+/.gradle/5.3.1/gc.properties
+/.gradle/6.1/gc.properties
+/.gradle/vcs-1/gc.properties
+/.idea/gradle.xml
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/.idea/libraries/Gradle__com_cedarsoftware_json_io_4_10_1.xml
+/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml
+/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml
+/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml
+/.idea/libraries/Gradle__com_github_hyperskill_hs_test_v7_0_1.xml
+/.idea/libraries/Gradle__com_github_stefanbirkner_system_rules_1_19_0.xml
+/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml
+/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml
+/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml
+/.idea/libraries/Gradle__junit_junit_4_11.xml
+/.idea/libraries/Gradle__junit_junit_4_12.xml
+/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml
+/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml
+/.idea/libraries/Gradle__org_assertj_assertj_core_3_8_0.xml
+/.idea/libraries/Gradle__org_assertj_assertj_swing_3_8_0.xml
+/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_8_0.xml
+/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml
+/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml
+/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml
+/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml
+/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_21.xml
+/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_21.xml
+/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_21.xml
+/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_21.xml
+/gradlew
+/gradlew.bat
+/Encryption-Decryption/task/build/reports/tests/test/index.html
+/Encryption-Decryption/task/build/tmp/test/jar_extract_856598440535729664_tmp
+/Encryption-Decryption/task/build/tmp/test/jar_extract_991258516180946704_tmp
+/Encryption-Decryption/task/build/tmp/test/jar_extract_4475867362198045281_tmp
+/Encryption-Decryption/task/build/tmp/test/jar_extract_7110535487360882966_tmp
+/Encryption-Decryption/task/build/tmp/test/jar_extract_8409682572622948913_tmp
+/Encryption-Decryption/task/build/tmp/test/jar_extract_8582898969464244546_tmp
+/Encryption-Decryption/task/build/tmp/test/jar_extract_8658823179052266922_tmp
+/Encryption-Decryption/task/build/tmp/test/jar_extract_10148691180971704970_tmp
+/Encryption-Decryption/task/build/tmp/test/jar_extract_11711799464193342154_tmp
+/Encryption-Decryption/task/build/tmp/test/jar_extract_12881904599218180859_tmp
+/Encryption-Decryption/task/build/tmp/test/jar_extract_13200049846798084686_tmp
+/Encryption-Decryption/task/build/tmp/test/jar_extract_13638802234524998381_tmp
+/Encryption-Decryption/task/build/tmp/test/jar_extract_14508339057982108919_tmp
+/Encryption-Decryption/task/build/tmp/test/jar_extract_18097319493203787349_tmp
+/Encryption-Decryption/task/build/tmp/test/jar_extract_18405500764303953496_tmp
+/.gradle/5.3.1/javaCompile/jarAnalysis.bin
+/.idea/jarRepositories.xml
+/.gradle/5.3.1/javaCompile/javaCompile.lock
+/Problems/Laptop store/out/production/classes/Laptop.class
+/Problems/Laptop store/out/production/classes/Laptop13.class
+/Problems/Laptop store/out/production/classes/Laptop15.class
+/Problems/Laptop store/out/production/classes/Laptop17.class
+/Problems/Laptop store/out/production/classes/LaptopFactory.class
+/Problems/Laptop store/out/production/classes/LaptopStore.class
+/.gradle/5.3.1/fileChanges/last-build.bin
+/.gradle/6.1/fileChanges/last-build.bin
+/Encryption-Decryption/lesson-info.yaml
+/Problems/lesson-info.yaml
+/.idea/misc.xml
+/.idea/modules.xml
+/Encryption-Decryption/task/build/test-results/test/binary/output.bin
+/Encryption-Decryption/task/build/test-results/test/binary/output.bin.idx
+/Encryption-Decryption/task/output.txt
+/.gradle/buildOutputCleanup/outputFiles.bin
+/.idea/modules/Problems/Advanced calculator/Problems-Advanced_calculator.iml
+/.idea/modules/Problems/Advanced calculator/Problems-Advanced_calculator_main.iml
+/.idea/modules/Problems/Advanced calculator/Problems-Advanced_calculator_test.iml
+/.idea/modules/Problems/Application as a class/Problems-Application_as_a_class.iml
+/.idea/modules/Problems/Application as a class/Problems-Application_as_a_class_main.iml
+/.idea/modules/Problems/Application as a class/Problems-Application_as_a_class_test.iml
+/.idea/modules/Problems/Basic calculator/Problems-Basic_calculator.iml
+/.idea/modules/Problems/Basic calculator/Problems-Basic_calculator_main.iml
+/.idea/modules/Problems/Basic calculator/Problems-Basic_calculator_test.iml
+/.idea/modules/Problems/Check the given numbers are different/Problems-Check_the_given_numbers_are_different.iml
+/.idea/modules/Problems/Check the given numbers are different/Problems-Check_the_given_numbers_are_different_main.iml
+/.idea/modules/Problems/Check the given numbers are different/Problems-Check_the_given_numbers_are_different_test.iml
+/.idea/modules/Problems/Clock factory/Problems-Clock_factory.iml
+/.idea/modules/Problems/Clock factory/Problems-Clock_factory_main.iml
+/.idea/modules/Problems/Clock factory/Problems-Clock_factory_test.iml
+/.idea/modules/Problems/Clocks/Problems-Clocks.iml
+/.idea/modules/Problems/Clocks/Problems-Clocks_main.iml
+/.idea/modules/Problems/Clocks/Problems-Clocks_test.iml
+/.idea/modules/Problems/Compression algorithm/Problems-Compression_algorithm.iml
+/.idea/modules/Problems/Compression algorithm/Problems-Compression_algorithm_main.iml
+/.idea/modules/Problems/Compression algorithm/Problems-Compression_algorithm_test.iml
+/.idea/modules/Problems/Get first and last elements/Problems-Get_first_and_last_elements.iml
+/.idea/modules/Problems/Get first and last elements/Problems-Get_first_and_last_elements_main.iml
+/.idea/modules/Problems/Get first and last elements/Problems-Get_first_and_last_elements_test.iml
+/.idea/modules/Problems/IntBinaryOperation/Problems-IntBinaryOperation.iml
+/.idea/modules/Problems/IntBinaryOperation/Problems-IntBinaryOperation_main.iml
+/.idea/modules/Problems/IntBinaryOperation/Problems-IntBinaryOperation_test.iml
+/.idea/modules/Problems/Laptop store/Problems-Laptop_store.iml
+/.idea/modules/Problems/Laptop store/Problems-Laptop_store_main.iml
+/.idea/modules/Problems/Laptop store/Problems-Laptop_store_test.iml
+/.idea/modules/Problems/Lucky number/Problems-Lucky_number.iml
+/.idea/modules/Problems/Lucky number/Problems-Lucky_number_main.iml
+/.idea/modules/Problems/Lucky number/Problems-Lucky_number_test.iml
+/.idea/modules/Problems/Max and Min/Problems-Max_and_Min.iml
+/.idea/modules/Problems/Max and Min/Problems-Max_and_Min_main.iml
+/.idea/modules/Problems/Max and Min/Problems-Max_and_Min_test.iml
+/.idea/modules/Problems/Motor static factory/Problems-Motor_static_factory.iml
+/.idea/modules/Problems/Motor static factory/Problems-Motor_static_factory_main.iml
+/.idea/modules/Problems/Motor static factory/Problems-Motor_static_factory_test.iml
+/.idea/modules/Problems/Motors/Problems-Motors.iml
+/.idea/modules/Problems/Motors/Problems-Motors_main.iml
+/.idea/modules/Problems/Motors/Problems-Motors_test.iml
+/.idea/modules/Problems/Pick your team/Problems-Pick_your_team.iml
+/.idea/modules/Problems/Pick your team/Problems-Pick_your_team_main.iml
+/.idea/modules/Problems/Pick your team/Problems-Pick_your_team_test.iml
+/.idea/modules/Problems/Piece of alphabet/Problems-Piece_of_alphabet.iml
+/.idea/modules/Problems/Piece of alphabet/Problems-Piece_of_alphabet_main.iml
+/.idea/modules/Problems/Piece of alphabet/Problems-Piece_of_alphabet_test.iml
+/.idea/modules/Problems/Shape hierarchy/Problems-Shape_hierarchy.iml
+/.idea/modules/Problems/Shape hierarchy/Problems-Shape_hierarchy_main.iml
+/.idea/modules/Problems/Shape hierarchy/Problems-Shape_hierarchy_test.iml
+/.idea/modules/Problems/Static factory methods for Time/Problems-Static_factory_methods_for_Time.iml
+/.idea/modules/Problems/Static factory methods for Time/Problems-Static_factory_methods_for_Time_main.iml
+/.idea/modules/Problems/Static factory methods for Time/Problems-Static_factory_methods_for_Time_test.iml
+/.idea/modules/Problems/Template Method/Problems-Template_Method.iml
+/.idea/modules/Problems/Template Method/Problems-Template_Method_main.iml
+/.idea/modules/Problems/Template Method/Problems-Template_Method_test.iml
+/.idea/modules/Problems/The index of an argument/Problems-The_index_of_an_argument.iml
+/.idea/modules/Problems/The index of an argument/Problems-The_index_of_an_argument_main.iml
+/.idea/modules/Problems/The index of an argument/Problems-The_index_of_an_argument_test.iml
+/.idea/modules/Problems/Users and WebSites/Problems-Users_and_WebSites.iml
+/.idea/modules/Problems/Users and WebSites/Problems-Users_and_WebSites_main.iml
+/.idea/modules/Problems/Users and WebSites/Problems-Users_and_WebSites_test.iml
+/Encryption-Decryption/task/build/reports/tests/test/js/report.js
+/.gradle/5.3.1/fileHashes/resourceHashesCache.bin
+/Encryption-Decryption/task/build/test-results/test/binary/results.bin
+/settings.gradle
+/.idea/frameworkLessonHistory/storage.storageData
+/.idea/frameworkLessonHistory/storage.storageRecordIndex
+/Encryption-Decryption/task/build/reports/tests/test/css/style.css
+/Encryption-Decryption/Choices, choices/task.html
+/Encryption-Decryption/Decrypted!/task.html
+/Encryption-Decryption/Encrypted!/task.html
+/Encryption-Decryption/I command you/task.html
+/Encryption-Decryption/Knowledge is key/task.html
+/Encryption-Decryption/X-files/task.html
+/Problems/Advanced calculator/task.html
+/Problems/Application as a class/task.html
+/Problems/Basic calculator/task.html
+/Problems/Check the given numbers are different/task.html
+/Problems/Clock factory/task.html
+/Problems/Clocks/task.html
+/Problems/Compression algorithm/task.html
+/Problems/Get first and last elements/task.html
+/Problems/IntBinaryOperation/task.html
+/Problems/Laptop store/task.html
+/Problems/Lucky number/task.html
+/Problems/Max and Min/task.html
+/Problems/Motor static factory/task.html
+/Problems/Motors/task.html
+/Problems/Pick your team/task.html
+/Problems/Piece of alphabet/task.html
+/Problems/Shape hierarchy/task.html
+/Problems/Static factory methods for Time/task.html
+/Problems/Template Method/task.html
+/Problems/The index of an argument/task.html
+/Problems/Users and WebSites/task.html
+/Encryption-Decryption/Choices, choices/task-info.yaml
+/Encryption-Decryption/Decrypted!/task-info.yaml
+/Encryption-Decryption/Encrypted!/task-info.yaml
+/Encryption-Decryption/I command you/task-info.yaml
+/Encryption-Decryption/Knowledge is key/task-info.yaml
+/Encryption-Decryption/X-files/task-info.yaml
+/Problems/Advanced calculator/task-info.yaml
+/Problems/Application as a class/task-info.yaml
+/Problems/Basic calculator/task-info.yaml
+/Problems/Check the given numbers are different/task-info.yaml
+/Problems/Clock factory/task-info.yaml
+/Problems/Clocks/task-info.yaml
+/Problems/Compression algorithm/task-info.yaml
+/Problems/Get first and last elements/task-info.yaml
+/Problems/IntBinaryOperation/task-info.yaml
+/Problems/Laptop store/task-info.yaml
+/Problems/Lucky number/task-info.yaml
+/Problems/Max and Min/task-info.yaml
+/Problems/Motor static factory/task-info.yaml
+/Problems/Motors/task-info.yaml
+/Problems/Pick your team/task-info.yaml
+/Problems/Piece of alphabet/task-info.yaml
+/Problems/Shape hierarchy/task-info.yaml
+/Problems/Static factory methods for Time/task-info.yaml
+/Problems/Template Method/task-info.yaml
+/Problems/The index of an argument/task-info.yaml
+/Problems/Users and WebSites/task-info.yaml
+/Encryption-Decryption/Choices, choices/task-remote-info.yaml
+/Encryption-Decryption/Decrypted!/task-remote-info.yaml
+/Encryption-Decryption/Encrypted!/task-remote-info.yaml
+/Encryption-Decryption/I command you/task-remote-info.yaml
+/Encryption-Decryption/Knowledge is key/task-remote-info.yaml
+/Encryption-Decryption/X-files/task-remote-info.yaml
+/Problems/Advanced calculator/task-remote-info.yaml
+/Problems/Application as a class/task-remote-info.yaml
+/Problems/Basic calculator/task-remote-info.yaml
+/Problems/Check the given numbers are different/task-remote-info.yaml
+/Problems/Clock factory/task-remote-info.yaml
+/Problems/Clocks/task-remote-info.yaml
+/Problems/Compression algorithm/task-remote-info.yaml
+/Problems/Get first and last elements/task-remote-info.yaml
+/Problems/IntBinaryOperation/task-remote-info.yaml
+/Problems/Laptop store/task-remote-info.yaml
+/Problems/Lucky number/task-remote-info.yaml
+/Problems/Max and Min/task-remote-info.yaml
+/Problems/Motor static factory/task-remote-info.yaml
+/Problems/Motors/task-remote-info.yaml
+/Problems/Pick your team/task-remote-info.yaml
+/Problems/Piece of alphabet/task-remote-info.yaml
+/Problems/Shape hierarchy/task-remote-info.yaml
+/Problems/Static factory methods for Time/task-remote-info.yaml
+/Problems/Template Method/task-remote-info.yaml
+/Problems/The index of an argument/task-remote-info.yaml
+/Problems/Users and WebSites/task-remote-info.yaml
+/.gradle/5.3.1/javaCompile/taskHistory.bin
+/Problems/Piece of alphabet/out/production/classes/Temp.class
+/Encryption-Decryption/task/build/test-results/test/TEST-EncryptDecryptTest.xml
+/Problems/Laptop store/out/production/classes/TestDrive.class
+/.idea/modules/util/util.iml
+/.idea/modules/util/util_main.iml
+/.idea/modules/util/util_test.iml
+/.idea/vcs.xml
+/Problems/Advanced calculator/src/Main.java
+/Problems/Application as a class/src/Main.java
+/Problems/Basic calculator/src/Main.java
+/Problems/Check the given numbers are different/src/Main.java
+/Problems/Clock factory/src/Main.java
+/Problems/Clocks/src/Main.java
+/Problems/Compression algorithm/src/Main.java
+/Problems/Get first and last elements/src/Main.java
+/Problems/IntBinaryOperation/src/Main.java
+/Problems/Laptop store/src/Main.java
+/Problems/Lucky number/src/Main.java
+/Problems/Max and Min/src/Main.java
+/Problems/Motor static factory/src/Main.java
+/Problems/Motors/src/Main.java
+/Problems/Pick your team/src/Main.java
+/Problems/Piece of alphabet/src/Main.java
+/Problems/Shape hierarchy/src/Main.java
+/Problems/Static factory methods for Time/src/Main.java
+/Problems/Template Method/src/Main.java
+/Problems/The index of an argument/src/Main.java
+/Problems/Users and WebSites/src/Main.java
+/Encryption-Decryption/task/build/classes/java/main/encryptdecrypt/Main.class
+/Encryption-Decryption/task/out/production/classes/encryptdecrypt/Main.class
+/Problems/Check the given numbers are different/out/production/classes/Main.class
+/Problems/Compression algorithm/out/production/classes/Main.class
+/Problems/Lucky number/out/production/classes/Main.class
+/Problems/Piece of alphabet/out/production/classes/Main.class
